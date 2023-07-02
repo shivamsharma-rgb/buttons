@@ -1,0 +1,42 @@
+.dc1{
+    width: 25%;
+    height:50rem;
+    text-align: center;
+    background-color: rgb(20, 115, 115);
+    display: inline-block;
+    border-radius: 2%;
+}
+.dc2{
+    margin-left: 5%;
+    width: 70%;
+    float: right;
+    display: inline-block;
+}
+.hc1{
+    margin-top: 5%;
+    font-size: 90%;
+    color: orange;
+}
+.b1{
+    margin: 5%;
+}
+
+.ac1{
+    display: block;
+    margin: 5%;
+    color: #fff;
+    text-decoration: none;
+    font-size: 90%;
+    padding: 5%;
+}
+.a{
+    text-decoration: none;
+    color: rgb(19, 76, 6);
+}
+.a:hover{
+    color: #fff;
+}
+.ac1:hover{
+    color: rgb(0,0,0);
+    font-size: 120%;
+}
